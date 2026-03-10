@@ -1,5 +1,4 @@
 # BUDA-535-Business-Data-Mining
-BUDA 535: Business Data Mining
 
 Spring 2026 | West Virginia University
 
